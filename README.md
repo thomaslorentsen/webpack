@@ -16,5 +16,11 @@ npm install
 
 Build the bundle
 ```bash
-webpack
+webpack --progress --colors
+```
+
+### Watch Mode
+
+```bash
+webpack --progress --colors --watch
 ```
