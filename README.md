@@ -1,4 +1,7 @@
-# webpack
+# Webpack
+
+* Read the [documentation](http://webpack.github.io/docs/).
+* Take a look at the [Examples](https://github.com/webpack/webpack/tree/master/examples).
 
 ## Prerequisites
 
@@ -11,8 +14,6 @@ Then install node packages
 ```bash
 npm install
 ```
-
-Read the [documentation](http://webpack.github.io/docs/).
 
 ## Build
 
