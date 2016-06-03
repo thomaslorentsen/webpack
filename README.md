@@ -12,6 +12,8 @@ Then install node packages
 npm install
 ```
 
+Read the [documentation](http://webpack.github.io/docs/).
+
 ## Build
 
 Build the bundle
