@@ -16,5 +16,5 @@ npm install
 
 Build the bundle
 ```bash
-webpack ./entry.js bundle.js --module-bind 'css=style!css'
+webpack
 ```
